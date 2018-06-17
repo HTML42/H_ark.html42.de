@@ -1,0 +1,23 @@
+header {
+    height: @header_height;
+    background-color: @color_secondary_lighter;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    .center_wrap {
+        height: @header_height;
+    }
+    .logo {
+        position: absolute;
+        bottom: 50%;
+        left: @distance_small;
+        transform: translateY(50%);
+        line-height: 1.1em;
+        font-family: Verdana, Arial;
+        font-weight: 700;
+        font-size: 24px;
+        color: @color_main_normal;
+    }
+}

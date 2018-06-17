@@ -1,0 +1,34 @@
+.settings {
+    fieldset {
+        legend {
+
+        }
+        ul {
+            .clean_list();
+            li {
+                .clear_after();
+                + li {
+                    margin-top: @distance_tiny;
+                }
+            }
+        }
+        @media (min-width: 550px) {
+            div.setting_key {
+                float: left;
+                width: 40%;
+            }
+            div.setting_value {
+                float: left;
+                width: 60%;
+            }
+        }
+        div.setting_key {
+        }
+        div.setting_value {
+            input[type=text] {
+                display: block;
+                width: 100%;
+            }
+        }
+    }
+}
