@@ -16,8 +16,7 @@ if (ADMINAREA && !IS_ADMIN) {
         $login = true;
     }
     if (!$login) {
-        echo '<h1>Admin-Area</h1>';
-        echo '<form action="" method="post"><input type="password" name="pw" /><br/><input type="submit" value="Login" /></form>';
+        echo File::i('pages/admin/_login.php')->get_content();
     } else {
         Utilities::redirect('index.html');
     }

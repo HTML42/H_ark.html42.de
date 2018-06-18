@@ -1,0 +1,33 @@
+#admin_login {
+    margin: 10vh auto 50px;
+    max-width: 500px;
+    padding: @distance_normal;
+    background-color: #EEE;
+    border: 1px solid #CCC;
+    border-radius: @distance_normal;
+    h1 {
+        margin: 0 0 @distance_small;
+    }
+    form {
+        input {
+            display: block;
+            width: 100%;
+            .h(@distance_big);
+            padding: 0 @distance_small;
+            font-size: @distance_big / 2;
+            + input {
+                margin-top: @distance_small;
+            }
+            &[type=submit] {
+                cursor: pointer;
+            }
+        }
+    }
+}
+.mods_id_string {
+    display: block;
+    width: 100%;
+    .h(@distance_normal);
+    padding: 0 @distance_tiny;
+    font-size: @distance_normal / 2;
+}

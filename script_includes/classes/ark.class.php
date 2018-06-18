@@ -20,7 +20,7 @@ class Ark {
     public static function read_ini($filename, $dim = true) {
         $file_content = self::read_config($filename);
         if(is_string($file_content)) {
-            return parse_ini_string($file_content, $dim, INI_SCANNER_TYPED );
+            return parse_ini_string($file_content, $dim, INI_SCANNER_TYPED);
         } else {
             return null;
         }
