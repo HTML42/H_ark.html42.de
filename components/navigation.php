@@ -1,6 +1,7 @@
 <?php
 $navi = array(
     (ADMINAREA ? '../' : '') . 'index.html' => 'Willkommen',
+    (ADMINAREA ? '../' : '') . 'mods.html' => 'Mods',
     (ADMINAREA ? '' : 'admin/') . 'index.html' => 'Admin-Area'
 );
 ?>
