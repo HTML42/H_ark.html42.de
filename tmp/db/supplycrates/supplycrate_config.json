@@ -1,0 +1,401 @@
+{
+    "items": {
+        "PrimalItemResource_Stone_C": {
+            "type": "resource",
+            "de": "Stein",
+            "en": "Stone"
+        },
+        "PrimalItemResource_Wood_C": {
+            "type": "resource",
+            "de": "Holz",
+            "en": "Wood"
+        },
+        "PrimalItemResource_BlackPearl_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_BlackPearl_C",
+            "en": "PrimalItemResource_BlackPearl_C"
+        },
+        "PrimalItemResource_Crystal_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_Crystal_C",
+            "en": "PrimalItemResource_Crystal_C"
+        },
+        "PrimalItemResource_ARKBone_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_ARKBone_C",
+            "en": "PrimalItemResource_ARKBone_C"
+        },
+        "PrimalItemResource_ElementShard_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_ElementShard_C",
+            "en": "PrimalItemResource_ElementShard_C"
+        },
+        "PrimalItemResource_Element_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_Element_C",
+            "en": "PrimalItemResource_Element_C"
+        },
+        "PrimalItemResource_Flint_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_Flint_C",
+            "en": "PrimalItemResource_Flint_C"
+        },
+        "PrimalItemResource_Hide_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_Hide_C",
+            "en": "PrimalItemResource_Hide_C"
+        },
+        "PrimalItemResource_Keratin_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_Keratin_C",
+            "en": "PrimalItemResource_Keratin_C"
+        },
+        "PrimalItemResource_Metal_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_Metal_C",
+            "en": "PrimalItemResource_Metal_C"
+        },
+        "PrimalItemResource_Obsidian_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_Obsidian_C",
+            "en": "PrimalItemResource_Obsidian_C"
+        },
+        "PrimalItemResource_Oil_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_Oil_C",
+            "en": "PrimalItemResource_Oil_C"
+        },
+        "PrimalItemResource_RareFlower_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_RareFlower_C",
+            "en": "PrimalItemResource_RareFlower_C"
+        },
+        "PrimalItemResource_RareMushroom_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_RareMushroom_C",
+            "en": "PrimalItemResource_RareMushroom_C"
+        },
+        "PrimalItemResource_Sand_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_Sand_C",
+            "en": "PrimalItemResource_Sand_C"
+        },
+        "PrimalItemResource_Silk_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_Silk_C",
+            "en": "PrimalItemResource_Silk_C"
+        },
+        "PrimalItemResource_Thatch_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_Thatch_C",
+            "en": "PrimalItemResource_Thatch_C"
+        },
+        "PrimalItemResource_Silicon_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_Silicon_C",
+            "en": "PrimalItemResource_Silicon_C"
+        },
+        "PrimalItemResource_Charcoal_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_Charcoal_C",
+            "en": "PrimalItemResource_Charcoal_C"
+        },
+        "PrimalItemResource_Fibers_C": {
+            "type": "resource",
+            "de": "PrimalItemResource_Fibers_C",
+            "en": "PrimalItemResource_Fibers_C"
+        },
+        
+        "PrimalItemConsumable_Kibble_DodoEgg_C": {
+            "type": "consumable",
+            "de": "PrimalItemConsumable_Kibble_DodoEgg_C",
+            "en": "PrimalItemConsumable_Kibble_DodoEgg_C"
+        },
+        
+        "PrimalItem_WeaponStonePick_C": {
+            "type": "weapon",
+            "de": "Stein-Spitzhacke",
+            "en": "Stone-Pick"
+        },
+        "PrimalItem_WeaponStoneHatchet_C": {
+            "type": "weapon",
+            "de": "Stein-Axt",
+            "en": "Stone-Axe"
+        },
+        "PrimalItem_WeaponMetalPick_C": {
+            "type": "weapon",
+            "de": "Metall-Spitzhacke",
+            "en": "Metal-Pick"
+        },
+        "PrimalItem_WeaponMetalHatchet_C": {
+            "type": "weapon",
+            "de": "Metall-Axt",
+            "en": "Metal-Axe"
+        },
+        "PrimalItem_WeaponSickle_C": {
+            "type": "weapon",
+            "de": "Sichel",
+            "en": "Sickle"
+        },
+        "PrimalItem_ChainSaw_C": {
+            "type": "weapon",
+            "de": "Kettensäge",
+            "en": "Chainsaw"
+        },
+        "PrimalItem_WeaponFishingRod_C": {
+            "type": "weapon",
+            "de": "Angel",
+            "en": "FishingRod"
+        },
+        "PrimalItem_WeaponGPS_C": {
+            "type": "weapon",
+            "de": "GPS",
+            "en": "GPS"
+        },
+        "PrimalItem_WeaponCompass_C": {
+            "type": "weapon",
+            "de": "Kompass",
+            "en": "Kompass"
+        },
+        "PrimalItem_WeaponWhip_C": {
+            "type": "weapon",
+            "de": "Peitsche",
+            "en": "Whip"
+        },
+        "PrimalItem_WeaponBow_C": {
+            "type": "weapon",
+            "de": "Bogen",
+            "en": "Bow"
+        },
+        "PrimalItem_WeaponCrossbow_C": {
+            "type": "weapon",
+            "de": "Armbrust",
+            "en": "Crossbow"
+        },
+        "PrimalItem_WeaponCompoundBow_C": {
+            "type": "weapon",
+            "de": "Kompositbogen",
+            "en": "CompoundBow"
+        },
+        "PrimalItem_WeaponProd_C": {
+            "type": "weapon",
+            "de": "Elektroschocker",
+            "en": "Prod"
+        },
+        "PrimalItem_WeaponMachinedPistol_C": {
+            "type": "weapon",
+            "de": "Pistole",
+            "en": "MachinedPistol"
+        },
+        "PrimalItem_WeaponFlareGun_C": {
+            "type": "weapon",
+            "de": "Leuchtpistole",
+            "en": "FlareGun"
+        },
+        "PrimalItem_WeaponRifle_C": {
+            "type": "eapon",
+            "de": "Maschienengewehr",
+            "en": "Rifle"
+        },
+        "PrimalItem_WeaponMachinedSniper_C": {
+            "type": "weapon",
+            "de": "Scharfschützengewehr",
+            "en": "MachinedSniper"
+        },
+        "PrimalItem_WeaponHarpoon_C": {
+            "type": "weapon",
+            "de": "Harpune",
+            "en": "Harpoon"
+        },
+        "PrimalItem_WeaponOneShotRifle_C": {
+            "type": "weapon",
+            "de": "Flinte",
+            "en": "OneShotRifle"
+        },
+        "PrimalItem_WeaponMachinedShotgun_C": {
+            "type": "weapon",
+            "de": "Pumpgun",
+            "en": "MachinedShotgun"
+        },
+        "PrimalItem_WeaponShotgun_C": {
+            "type": "weapon",
+            "de": "Schrotflinte",
+            "en": "Shotgun"
+        },
+        "PrimalItem_WeaponGun_C": {
+            "type": "weapon",
+            "de": "Revolver",
+            "en": "Gun"
+        },
+        "PrimalItem_WeaponSlingshot_C": {
+            "type": "weapom",
+            "de": "Steinschleuder",
+            "en": "Slingshot"
+        },
+        "PrimalItem_WeaponSword_C": {
+            "type": "weapon",
+            "de": "Schwert",
+            "en": "Sword"
+        },
+        "PrimalItem_WeaponStoneClub_C": {
+            "type": "weapon",
+            "de": "Knüppel",
+            "en": "StoneClub"
+        },
+        "PrimalItem_WeaponClassicRocketLauncher": {
+            "type": "weapon",
+            "de": "PrimalItem_WeaponClassicRocketLauncher",
+            "en": "PrimalItem_WeaponClassicRocketLauncher"
+        },
+        
+        "PrimalItemCostume_BoneCarno_C": {
+            "type": "skin",
+            "de": "Carno Knochenkostüm",
+            "en": "PrimalItemCostume_BoneCarno_C"
+        },
+        "PrimalItemCostume_BoneSauro_C": {
+            "type": "skin",
+            "de": "PrimalItemCostume_BoneSauro_C",
+            "en": "PrimalItemCostume_BoneSauro_C"
+        },
+        "PrimalItemCostume_BoneGigant_C": {
+            "type": "skin",
+            "de": "PrimalItemCostume_BoneGigant_C",
+            "en": "PrimalItemCostume_BoneGigant_C"
+        },
+        "PrimalItemCostume_BoneJerboa_C": {
+            "type": "skin",
+            "de": "PrimalItemCostume_BoneJerboa_C",
+            "en": "PrimalItemCostume_BoneJerboa_C"
+        },
+        "PrimalItemCostume_BoneRaptor_C": {
+            "type": "skin",
+            "de": "PrimalItemCostume_BoneRaptor_C",
+            "en": "PrimalItemCostume_BoneRaptor_C"
+        },
+        "PrimalItemCostume_BoneRex_C": {
+            "type": "skin",
+            "de": "PrimalItemCostume_BoneRex_C",
+            "en": "PrimalItemCostume_BoneRex_C"
+        },
+        "PrimalItemCostume_BoneTrike_C": {
+            "type": "skin",
+            "de": "PrimalItemCostume_BoneTrike_C",
+            "en": "PrimalItemCostume_BoneTrike_C"
+        },
+        "PrimalItemCostume_BoneStego_C": {
+            "type": "skin",
+            "de": "PrimalItemCostume_BoneStego_C",
+            "en": "PrimalItemCostume_BoneStego_C"
+        },
+        
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        },
+        "": {
+            "type": "",
+            "de": "",
+            "en": ""
+        }
+    },
+    "supplycrates": {
+        "SupplyCrate_Level03_C": {
+            "level": "3"
+        },
+        "SupplyCrate_Level15_C": {
+            "level": "15"
+        },
+        "SupplyCrate_Level25_C": {
+            "level": "25"
+        },
+        "SupplyCrate_Level35_C": {
+            "level": "35"
+        },
+        "SupplyCrate_Level45_C": {
+            "level": "45"
+        },
+        "SupplyCrate_Level60_C": {
+            "level": "60"
+        },
+        "SupplyCrate": {
+            "level": "ALL"
+        }
+    }
+}

@@ -10,13 +10,18 @@ var config = {
         'less/elements/buttons.less',
         'less/elements/ark.less',
         'less/elements/settings_page.less',
-        'less/elements/adminarea.less'
+        'less/elements/adminarea.less',
+        'less/elements/supplycrate_creator.less',
+        'less/elements/dinos_list.less'
     ],
     js: [
         'js/jquery/jquery-3.1.0.js',
         'js/html42/xtreme.js',
         'js/html42/technologies/list_length.js',
         'js/html42/technologies/ajax_links.js',
+        'js/supplycrate_creator.js',
+        'js/dinos_list.js',
+        'js/instances_db.js',
         'js/project.js'
     ]
 };

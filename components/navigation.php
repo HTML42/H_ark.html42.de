@@ -2,6 +2,8 @@
 $navi = array(
     (ADMINAREA ? '../' : '') . 'index.html' => 'Willkommen',
     (ADMINAREA ? '../' : '') . 'mods.html' => 'Mods',
+    (ADMINAREA ? '../' : '') . 'dinos.html' => 'Dinos',
+    (ADMINAREA ? '../' : '') . 'supplycrate_creator.html' => 'SupplyCrates',
     (ADMINAREA ? '' : 'admin/') . 'index.html' => 'Admin-Area'
 );
 ?>

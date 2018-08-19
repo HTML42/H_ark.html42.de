@@ -1,4 +1,4 @@
-<h1>Used Mods on ARK42-Server</h1>
+<h1>Genutzte Mods auf ARK42-Server</h1>
 <?php $mods = IniFile::i('tmp/db/mods.ini')->get_ini() ?>
 
 <ol>
